@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Robin 'Ropz' Kool",
+        "sport": "Counter Strike 2",
+        "position": "Lurker",
+        "age": 26,
+        "team": {
+            "name": "Team Vitality",
+            "city": "Europe/France"
+        }
+    
+    }
+]
+[
+    {
+        "name": "Nikola 'Niko' Kovac",
+        "sport": "Counter Strike 2",
+        "position": "Rifler",
+        "age": 29,
+        "team": {
+            "name": "Team Falcons",
+            "city": "Europe"
+        }
+]
+[
+{
+        "name": "Kirill 'Booml4' Mikhailov",
+        "sport": "Counter Strike 2",
+        "position": "In Game Leader (IGL)",
+        "age": 27,
+        "team": {
+            "name": "BetBoom",
+            "city": "Russia"
+        }
+]
